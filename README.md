@@ -1,5 +1,5 @@
 # WP
-50_Nabeel
+Just a Website
 
 STEP1:
 Extract 50_Nabeel.rar in htdocs/www folder
